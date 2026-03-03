@@ -1,6 +1,6 @@
 {
   "name": "Technical Evaluation",
-  "image": "ghcr.io/event-driven-vision-school/event-driven-school:codespaces",
+  "image": "ghcr.io/event-driven-vision-school/event-driven-school.github.io:codespaces",
   "features": {
     "ghcr.io/devcontainers/features/github-cli:latest": { },
     "ghcr.io/devcontainers/features/git-lfs:latest": { }
