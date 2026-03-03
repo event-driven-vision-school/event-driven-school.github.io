@@ -1,0 +1,20 @@
+🔽 Instructions to run the docker image locally
+===============================================
+
+This is the Docker description of the Stack of components required to run VVV School assignments
+
+To run the container using Docker, go through the following steps:
+1. Pull the docker image:
+    ```console
+    docker pull ghcr.io/vvv-school/evs:latest
+    ```
+1. Launch the container:
+    ```console
+    docker run -it --rm -p 6080:6080 --user student ghcr.io/vvv-school/evs:latest
+    ```
+1. From within the container shell, launch the following scripts:
+    ```console
+    start-vnc-session.sh
+    ```
+1. Open up the browser and connect to **`localhost:6080`** to get to the workspace desktop GUI.
+1. Once done, from the container shell press **CTRL+D**.
