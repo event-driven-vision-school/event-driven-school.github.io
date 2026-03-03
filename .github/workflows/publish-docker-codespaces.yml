@@ -59,5 +59,3 @@ jobs:
         build-args: |
           ROBOTOLOGY_SUPERBUILD_RELEASE=${{ inputs.superbuild_release }}
           BUILD_TYPE=${{ inputs.build_type }}
-        secrets: |
-            "HELPERS_REPO_PAT=${{ secrets.AUDITION_PROJECTS_HELPERS_PAT }}"
