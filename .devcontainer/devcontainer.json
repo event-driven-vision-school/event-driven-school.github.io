@@ -1,5 +1,9 @@
 {
-  "name": "Technical Evaluation",
+  "name": "Event-Driven Vision School Codespace",
+  "build": {
+    "dockerfile": "../dockerfiles/Dockerfile",
+    "context": "../dockerfiles/"
+  },
   "image": "ghcr.io/event-driven-vision-school/event-driven-school.github.io:codespaces",
   "features": {
     "ghcr.io/devcontainers/features/github-cli:latest": { },

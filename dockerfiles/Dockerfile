@@ -27,6 +27,19 @@ RUN apt install -y xfce4 xfce4-goodies xserver-xorg-video-dummy xserver-xorg-leg
 COPY xorg.conf /etc/X11/xorg.conf
 RUN dos2unix /etc/X11/xorg.conf
 
+WORKDIR /usr/local/src
+# Build robotology-superbuild
+RUN git clone https://github.com/robotology/robotology-superbuild.git --depth 1 --branch v2025.11.1 && \
+    robotology-superbuild/scripts/install_apt_dependencies.sh
+
+RUN cd robotology-superbuild && mkdir build && cd build && \
+    cmake .. \
+          -DROBOTOLOGY_ENABLE_CORE:BOOL=ON \
+          -DROBOTOLOGY_ENABLE_ROBOT_TESTING:BOOL=ON \
+          -DROBOTOLOGY_USES_GAZEBO=OFF \
+          -DYCM_EP_INSTALL_DIR=/usr/local &&\
+    make -j `nproc` && \
+    cd ../.. && rm -Rf robotology-superbuild
 
 # Install noVNC
 RUN git clone https://github.com/novnc/noVNC.git /opt/novnc && \
