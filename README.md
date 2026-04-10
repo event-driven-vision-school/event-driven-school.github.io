@@ -1,13 +1,15 @@
-# event-driven-school.github.io
+# 👀🧠👩‍🎓 Welcome to the Event Vision School 
 
-This will serve as the event-driven vision school landing page which we can links for all information we want to give the students at the school
+Here you can find links to all the important information you will need at the event vision school! Any further questions? - ask a TA or teacher!
 
   - [Schedule](resources/schedule.md)
-  - Hotel info
-  - Food info
-  - Contact info
+  - Hotel and Food info
+  - Teachers and TAs
   - Assignment instructions
-  - Assignment links
-  - Gradebook link
+  - Assignments 
+  - Gradebook 
+
+Contact:
+
 
 
