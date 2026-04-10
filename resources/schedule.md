@@ -25,13 +25,14 @@ Tuesday 19th
 
 9:00 – 13:00 Lectures on algorithmic approaches in Event-Driven Vision
 
-    M. Ikura - Tracking: corner, lines
-    A. Glover - 6DoF object tracking and Optical Flow
+    G. Gallego - Intro to Perception 
+    M. Ikura - Pertubation Tracking: corner, lines, objects
     G. Gallego - Contrast maximization
-    G. Gallego - Depth, SLAM
+    A. Glover - Optical Flow
+    G. Gallego - Putting things together - Depth, SLAM
 
 14:00 – 18:00 Assignments :
-  - optical flow (Glover)
+  - perturbation (Ikura)
   - contrast maximisation (Gallego)
 
 21:30 – 22:30 Keynote, D. Scaramuzza
