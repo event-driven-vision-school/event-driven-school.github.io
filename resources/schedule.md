@@ -1,5 +1,9 @@
 # Schedule: Event Vision School 2026
 
+
+| [Day 1](#monday-18th) | [Day 2](#tuesday-19th) | [Day 3](#wednesday-20th) | [Day 4](#thursday-21st) | [Day 5](#friday-22nd) |
+|:---:|:---:|:---:|:---:|:---:|
+
 Sunday 17th
 --
 
