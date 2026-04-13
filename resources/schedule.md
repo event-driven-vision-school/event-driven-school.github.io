@@ -80,9 +80,18 @@ Friday 22nd
     G. de Croon - end-to-end neuromorphic architectures for autonomous drone flight
     A. Glover - low-latency vision and asynchronous reinforcement learning for real-time interaction in high-speed tasks
 
+|[<img src="/resources/people/jorgconradt.jpg" width="120">](/resources/people/jorgconradt.jpg)| [<img src="/resources/people/guidodecroon.jpg" width="120">](/resources/people/guidodecroon.jpg)| [<img src="/resources/people/arrenglover.jpg" width="120">](/resources/people/arrenglover.jpg)|  
+|:---:|:---:|:---:|
+| **Jorg Conradt** | **Guido de Croon** | **Arren Glover** |
+| [@](https://github.com/) | [@](https://github.com/) | [@arrenglover](https://github.com/arrenglover) |
+
 14:00 – 18:00 Assignments :
   - ?
   - ?
+    
+|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|:---:|:---:|
+| [@TA1](https://github.com/) | [@TA2](https://github.com/) |
 
 Saturday 23rd
 --
