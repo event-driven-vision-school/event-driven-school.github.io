@@ -25,20 +25,23 @@ Tuesday 19th
 
 9:00 – 13:00 Lectures on algorithmic approaches in Event-Driven Vision
 
-    G. Gallego - Intro to Perception 
-    M. Ikura - Pertubation Tracking: corner, lines, objects
-    G. Gallego - Contrast maximization
-    A. Glover - Optical Flow
-    G. Gallego - Putting things together - Depth, SLAM
+    G. Gallego - Introduction to Perception with Event Cameras
+    M. Ikura - Pertubation Tracking: corner, lines, and objects
+    G. Gallego - Contrast maximization and Optical Flow
+    G. Gallego - SLAM with Event Cameras
 
-|[<img src="/resources/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| 
-|:---:|
-| **Guillermo Gallego** |
-| [@guillermogb](https://github.com/guillermogb) |
+|[<img src="/resources/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| [<img src="/resources/people/mikihiroikura.jpg" width="120">](/resources/people/mikihiroikura.jpg)| 
+|:---:|:---:|
+| **Guillermo Gallego** | **Mikihiro Ikura** |
+| [@guillermogb](https://github.com/guillermogb) | [@mikihiroikura](https://github.com/mikihiroikura) |
 
 14:00 – 18:00 Assignments :
-  - perturbation (Ikura)
-  - contrast maximisation (Gallego)
+  - Perturbation Tracking (Ikura)
+  - Contrast Maximisation (Gallego)
+    
+|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|:---:|:---:|
+| [@zhichao](https://github.com/) | [@jiahang](https://github.com/) |
 
 21:30 – 22:30 Keynote, D. Scaramuzza
 
@@ -91,7 +94,7 @@ Friday 22nd
     
 |[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
 |:---:|:---:|
-| [@TA1](https://github.com/) | [@TA2](https://github.com/) |
+| [@irene](https://github.com/) | [@federica](https://github.com/) |
 
 Saturday 23rd
 --
