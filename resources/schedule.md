@@ -15,15 +15,13 @@ Monday 18th
 9:00 – 13:00 Lectures on fundamentals of Event-Driven Vision
 
     T. Delbruck – History and basics of event-cameras, limitations, noise, models
-    M. Iacono - How to read events, avilable tools, visualisation, and basics for the EVS
-    M. Iacono - Real camera vs simulators (Unreal, v2e, esim)
-    A. Glover - Real-time processing and representations
+    M. Iacono - How to read events, avilable tools, visualisation, simlulators, and basics for the EVS
+    A. Glover - Methods for Processing
 
 14:00 – 18:00 Assignments :
-  - event-by-event processing
-  - batch processing
-  - representation processing in Event-Driven Vision
-
+  - git, python, c++, jupyter, 
+  - event-by-event processing v.s. batch processing v.s. representation processing in Event-Driven Vision
+    
 Tuesday 19th
 --
 
