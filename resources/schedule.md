@@ -30,6 +30,7 @@ Tuesday 19th
     G. Gallego - Contrast maximization
     A. Glover - Optical Flow
     G. Gallego - Putting things together - Depth, SLAM
+![guillermogallego](resources/people/guillermogallego.jpg)
 
 14:00 – 18:00 Assignments :
   - perturbation (Ikura)
