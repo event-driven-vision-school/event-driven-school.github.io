@@ -63,19 +63,20 @@ Wednesday 20th
 
 9:00 – 13:00 Lectures on AI-based approaches for Event-Driven Vision
 
-    G. Goyal – Observing Humans (pose estimation, action recognition, eye tracking)
-    M. Iacono – Architectures and training SNNs for vision (CNN, RNN, LSTM, surrogate-gradient, bptt, eligibility traces, eProp, etc.)
+    G. Goyal – Input Represenations, Overview of Different Networks, Application - Observing Humans (pose estimation, action recognition, eye tracking), graph neural networks
     M. Cannici – Deep learning for low-power efficient motion estimation, navigation, neural radiance fields reconstruction under fast motion
-
-
+    M. Iacono – Architectures and training SNNs for vision (CNN, RNN, LSTM, surrogate-gradient, bptt, eligibility traces, eProp, etc.)
+    
 | | | |
 |:---:|:---:|:---:|
 | **Gaurvi Goyal** | **Massimiliano Iacono** | **Marco Cannici** |
 | [@]() | [@]() | [@]() |
 
 14:00 – 18:00 Assignments :
-  - CNN (Goyal)?
-  - SNN (Iacono)
+  - CNN (MNIST?) input representation , loss function + evaluation [checkpoint fixed, train more]
+  - SNN - how to design the surragate gradient [checkpoint given, train more]
+    
+  - what kind of network, data preparation, input, loss functions, evaluation, generate more difficulty in mnist (spatial variation, temporal variation), earlier detection is better score. 
 
 |[<img src="https://github.com/DariaBerretta.png" width="120">](https://github.com/DariaBerretta.png)|[<img src="https://github.com/denyunhero.png" width="120">](https://github.com/denyunhero.png)|
 |:---:|:---:|
