@@ -21,6 +21,10 @@ Monday 18th
 14:00 – 18:00 Assignments :
   - git, python, c++, jupyter, 
   - event-by-event processing v.s. batch processing v.s. representation processing in Event-Driven Vision
+
+|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|:---:|:---:|
+| [@matteo](https://github.com/) | [@bernard](https://github.com/) |
     
 Tuesday 19th
 --
@@ -58,7 +62,11 @@ Wednesday 20th
 
 14:00 – 18:00 Assignments :
   - CNN (Goyal)?
-  - SNN (Iacono)?
+  - SNN (Iacono)
+
+|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|:---:|:---:|
+| [@daria](https://github.com/) | [@xiao](https://github.com/) |
 
 19:30 – 22:30 Social Dinner
 
@@ -73,6 +81,10 @@ Thursday 21st
 
 14:00 – 18:00 Assignments :
   - models of biological vision on neuromorphic hardware, SynSense “SPECK” hands on tutorial (M. Khoei and G. D’Angelo)
+
+|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|:---:|:---:|
+| [@mohamed](https://github.com/) | [@miriam](https://github.com/) |
 
 21:30 – 22:30 Keynote, K. Eng
 
