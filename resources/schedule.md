@@ -18,13 +18,19 @@ Monday 18th
     M. Iacono - How to read events, avilable tools, visualisation, simlulators, and basics for the EVS
     A. Glover - Methods for Processing
 
+| | | |
+|:---:|:---:|:---:|
+| **Tobi Delbruck** | **Massimiliano Iacono** | **Arren Glover** |
+| [@]() | [@]() | [@]() |
+
 14:00 – 18:00 Assignments :
   - git, python, c++, jupyter, 
   - event-by-event processing v.s. batch processing v.s. representation processing in Event-Driven Vision
 
-|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|[<img src="https://github.com/MatteoCappe.png" width="120">](https://github.com/MatteoCappe.png)|[<img src="https://github.com/BernardMaacaron.png" width="120">](https://github.com/BernardMaacaron.png)|
 |:---:|:---:|
-| [@matteo](https://github.com/) | [@bernard](https://github.com/) |
+| **Matteo Cappellini** | **Bernard Maacaron** |
+| [@MatteoCappe](https://github.com/MatteoCappe) | [@BernardMaacaron](https://github.com/BernardMaacaron) |
     
 Tuesday 19th
 --
@@ -45,9 +51,10 @@ Tuesday 19th
   - Perturbation Tracking (Ikura)
   - Contrast Maximisation (Gallego)
     
-|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|[<img src="https://github.com/LZC-68.png" width="120">](https://github.com/LZC-68.png)|[<img src="https://github.com/JiahangWu.png" width="120">](https://github.com/JiahangWu.png)|
 |:---:|:---:|
-| [@zhichao](https://github.com/) | [@jiahang](https://github.com/) |
+| **Zhichao Li** | **Jiahang Wu** |
+| [@LZC-68](https://github.com/LZC-68) | [@JiahangWu](https://github.com/JiahangWu) |
 
 21:30 – 22:30 Keynote, D. Scaramuzza
 
@@ -60,13 +67,20 @@ Wednesday 20th
     M. Iacono – Architectures and training SNNs for vision (CNN, RNN, LSTM, surrogate-gradient, bptt, eligibility traces, eProp, etc.)
     M. Cannici – Deep learning for low-power efficient motion estimation, navigation, neural radiance fields reconstruction under fast motion
 
+
+| | | |
+|:---:|:---:|:---:|
+| **Gaurvi Goyal** | **Massimiliano Iacono** | **Marco Cannici** |
+| [@]() | [@]() | [@]() |
+
 14:00 – 18:00 Assignments :
   - CNN (Goyal)?
   - SNN (Iacono)
 
-|[<img src="https://github.com/DariaBerretta.png" width="120">](https://github.com/DariaBerretta.png)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|[<img src="https://github.com/DariaBerretta.png" width="120">](https://github.com/DariaBerretta.png)|[<img src="https://github.com/denyunhero.png" width="120">](https://github.com/denyunhero.png)|
 |:---:|:---:|
-| [@DariaBerretta](https://github.com/DariaBerretta) | [@xiao](https://github.com/) |
+| **Daria Berretta** | **Xiao Jiang** |
+| [@DariaBerretta](https://github.com/DariaBerretta) | [@denyunhero](https://github.com/denyunhero) |
 
 19:30 – 22:30 Social Dinner
 
@@ -79,12 +93,17 @@ Thursday 21st
     G. D’Angelo - Models of attentions and motion perception
     C. Bartolozzi – Embodied vision and tactile sensing
 
+| | | |
+|:---:|:---:|:---:|
+| **Elisabetta Chicca** | **Giulia D'Angelo** | **Chiara Bartolozzi** |
+| [@]() | [@]() | [@]() |
+
 14:00 – 18:00 Assignments :
   - models of biological vision on neuromorphic hardware, SynSense “SPECK” hands on tutorial (M. Khoei and G. D’Angelo)
 
-|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|[<img src="https://github.com/msbouanane.png" width="120">](https://github.com/msbouanane.png)|[<img src="https://github.com/mbarborinii.png" width="120">](https://github.com/mbarborinii.png)|
 |:---:|:---:|
-| [@mohamed](https://github.com/) | [@miriam](https://github.com/) |
+| [@msbouanane](https://github.com/msbouanane) | [@mbarborinii](https://github.com/mbarborinii) |
 
 21:30 – 22:30 Keynote, K. Eng
 
@@ -106,9 +125,9 @@ Friday 22nd
   - ?
   - ?
     
-|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|[<img src="https://github.com/irecodes.png" width="120">](https://github.com/irecodes.png)|[<img src="https://github.com/federicamaeli.png" width="120">](https://github.com/federicamaeli.png)|
 |:---:|:---:|
-| [@irene](https://github.com/) | [@federica](https://github.com/) |
+| [@irecodes](https://github.com/irecodes) | [@federicamaeli](https://github.com/federicamaeli) |
 
 Saturday 23rd
 --
