@@ -64,9 +64,9 @@ Wednesday 20th
   - CNN (Goyal)?
   - SNN (Iacono)
 
-|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
+|[<img src="https://github.com/DariaBerretta.png" width="120">](https://github.com/DariaBerretta.png)|[<img src="/resources/people/x.jpg" width="120">](/resources/people/x.jpg)|
 |:---:|:---:|
-| [@daria](https://github.com/) | [@xiao](https://github.com/) |
+| [@DariaBerretta](https://github.com/DariaBerretta) | [@xiao](https://github.com/) |
 
 19:30 – 22:30 Social Dinner
 
