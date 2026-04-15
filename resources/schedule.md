@@ -90,17 +90,20 @@ Thursday 21st
 
 9:00 – 13:00 Lectures on biologically inspired methods and processing on neuromorphic hardware
 
+    C. Bartolozzi – Embodied vision and tactile sensing
     E. Chicca - Insects inspired navigation with neuromorphic hardware
     G. D’Angelo - Models of attentions and motion perception
-    C. Bartolozzi – Embodied vision and tactile sensing
+    M. Khoei - SynSense Tutorial on "SPECK"
 
-| | | |
-|:---:|:---:|:---:|
-| **Elisabetta Chicca** | **Giulia D'Angelo** | **Chiara Bartolozzi** |
-| [@]() | [@]() | [@]() |
+| [<img src="/resources/people/elisabettachicca.jpg" width="120">](/resources/people/elisabettachicca.jpg) | [<img src="/resources/people/giuliadangelo.png" width="120">](/resources/people/giuliadangelo.png) | [<img src="/resources/people/chiarabartolozzi.jpg" width="120">](/resources/people/chiarabartolozzi.jpg) | [<img src="/resources/people/minakhoei.jpg" width="120">](/resources/people/minakhoei.jpg) |
+|:---:|:---:|:---:|:---:|
+| **Elisabetta Chicca** | **Giulia D'Angelo** | **Chiara Bartolozzi** | **Mina Khoei** |
+| [@]() | [@]() | [@]() | [@]() |
 
 14:00 – 18:00 Assignments :
-  - models of biological vision on neuromorphic hardware, SynSense “SPECK” hands on tutorial (M. Khoei and G. D’Angelo)
+  - SNN coding a LIF neuron for processing + network connections (2 hrs)
+  - SNN Attention model that fits on the SPECK (2 hrs)
+  - SPECK demo
 
 |[<img src="https://github.com/msbouanane.png" width="120">](https://github.com/msbouanane.png)|[<img src="https://github.com/mbarborinii.png" width="120">](https://github.com/mbarborinii.png)|
 |:---:|:---:|
