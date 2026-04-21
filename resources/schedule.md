@@ -27,10 +27,10 @@ Monday 18th
   - git, python, c++, jupyter, 
   - event-by-event processing v.s. batch processing v.s. representation processing in Event-Driven Vision
 
-|[<img src="https://github.com/MatteoCappe.png" width="120">](https://github.com/MatteoCappe.png)|[<img src="https://github.com/BernardMaacaron.png" width="120">](https://github.com/BernardMaacaron.png)|
+|[<img src="https://github.com/irecodes.png" width="120">](https://github.com/irecodes.png)|[<img src="https://github.com/federicamaeli.png" width="120">](https://github.com/federicamaeli.png)|
 |:---:|:---:|
-| **Matteo Cappellini** | **Bernard Maacaron** |
-| [@MatteoCappe](https://github.com/MatteoCappe) | [@BernardMaacaron](https://github.com/BernardMaacaron) |
+| [@irecodes](https://github.com/irecodes) | [@federicamaeli](https://github.com/federicamaeli) |
+
     
 Tuesday 19th
 --
@@ -129,9 +129,12 @@ Friday 22nd
   - ?
   - ?
     
-|[<img src="https://github.com/irecodes.png" width="120">](https://github.com/irecodes.png)|[<img src="https://github.com/federicamaeli.png" width="120">](https://github.com/federicamaeli.png)|
+|[<img src="https://github.com/MatteoCappe.png" width="120">](https://github.com/MatteoCappe.png)|[<img src="https://github.com/BernardMaacaron.png" width="120">](https://github.com/BernardMaacaron.png)|
 |:---:|:---:|
-| [@irecodes](https://github.com/irecodes) | [@federicamaeli](https://github.com/federicamaeli) |
+| **Matteo Cappellini** | **Bernard Maacaron** |
+| [@MatteoCappe](https://github.com/MatteoCappe) | [@BernardMaacaron](https://github.com/BernardMaacaron) |
+
+
 
 Saturday 23rd
 --
