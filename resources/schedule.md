@@ -50,7 +50,7 @@ Tuesday 19th
   - Perturbation Tracking (Ikura)
   - Contrast Maximisation (Gallego)
     
-|[<img src="https://github.com/LZC-68.png" width="120">](https://github.com/LZC-68.png)|[<img src="https://github.com/JiahangWu.png" width="120">](https://github.com/JiahangWu.png)|
+|[<img src="https://github.com/LZC-68.png" width="120">](https://github.com/LZC-68.png)|[<img src="/resources/people/jiahangwu.jpg" width="120">](/resources/people/jiahangwu.jpg)|
 |:---:|:---:|
 | **Zhichao Li** | **Jiahang Wu** |
 | [@LZC-68](https://github.com/LZC-68) | [@JiahangWu](https://github.com/JiahangWu) |
