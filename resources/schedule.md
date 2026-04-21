@@ -98,7 +98,7 @@ Thursday 21st
 | [<img src="/resources/people/elisabettachicca.jpg" width="120">](/resources/people/elisabettachicca.jpg) | [<img src="/resources/people/giuliadangelo.png" width="120">](/resources/people/giuliadangelo.png) | [<img src="/resources/people/chiarabartolozzi.jpg" width="120">](/resources/people/chiarabartolozzi.jpg) | [<img src="/resources/people/minakhoei.jpg" width="120">](/resources/people/minakhoei.jpg) |
 |:---:|:---:|:---:|:---:|
 | **Elisabetta Chicca** | **Giulia D'Angelo** | **Chiara Bartolozzi** | **Mina Khoei** |
-| [@]() | [@]() | [@]() | [@]() |
+| [@]() | [@GiuliaDAngelo](https://github.com/GiuliaDAngelo) | [@ChiaraBartolozzi](https://github.com/ChiaraBartolozzi) | [@MinaKh](https://github.com/MinaKh) |
 
 14:00 – 18:00 Assignments :
   - SNN coding a LIF neuron for processing + network connections (2 hrs)
@@ -124,7 +124,7 @@ Friday 22nd
 |[<img src="/resources/people/jorgconradt.jpg" width="120">](/resources/people/jorgconradt.jpg)| [<img src="/resources/people/guidodecroon.jpg" width="120">](/resources/people/guidodecroon.jpg)| [<img src="/resources/people/arrenglover.jpg" width="120">](/resources/people/arrenglover.jpg)|  
 |:---:|:---:|:---:|
 | **Jorg Conradt** | **Guido de Croon** | **Arren Glover** |
-| [@](https://github.com/) | [@](https://github.com/) | [@arrenglover](https://github.com/arrenglover) |
+| [@jconradt](https://github.com/jconradt) | [@](https://github.com/) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
   - Low latency coding
