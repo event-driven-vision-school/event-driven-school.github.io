@@ -17,11 +17,11 @@ Monday 18th
     T. Delbruck – History and basics of event-cameras, limitations, noise, models
     M. Iacono - How to read events, avilable tools, visualisation, simlulators, and basics for the EVS
     A. Glover - Methods for Processing
-
-| | | |
+    
+|[<img src="https://github.com/tobidelbruck.png" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)|[<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
 |:---:|:---:|:---:|
 | **Tobi Delbruck** | **Massimiliano Iacono** | **Arren Glover** |
-| [@]() | [@]() | [@]() |
+| [@tobidelbruck](https://github.com/tobidelbruck) | [@iaxama](https://github.com/iaxama) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
   - git, python, c++, jupyter, 
@@ -42,10 +42,10 @@ Tuesday 19th
     G. Gallego - Contrast maximization and Optical Flow
     G. Gallego - SLAM with Event Cameras
 
-|[<img src="/resources/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| [<img src="/resources/people/mikihiroikura.jpg" width="120">](/resources/people/mikihiroikura.jpg)| 
-|:---:|:---:|
-| **Guillermo Gallego** | **Mikihiro Ikura** |
-| [@guillermogb](https://github.com/guillermogb) | [@mikihiroikura](https://github.com/mikihiroikura) |
+|[<img src="/resources/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| [<img src="/resources/people/mikihiroikura.jpg" width="120">](/resources/people/mikihiroikura.jpg)| [<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
+|:---:|:---:|:---:|
+| **Guillermo Gallego** | **Mikihiro Ikura** | **Arren Glover** |
+| [@guillermogb](https://github.com/guillermogb) | [@mikihiroikura](https://github.com/mikihiroikura) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
   - Perturbation Tracking (Ikura)
