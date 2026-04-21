@@ -27,7 +27,7 @@ Monday 18th
   - git, python, c++, jupyter, 
   - event-by-event processing v.s. batch processing v.s. representation processing in Event-Driven Vision
 
-|[<img src="https://github.com/irecodes.png" width="120">](https://github.com/irecodes.png)|[<img src="https://github.com/federicamaeli.png" width="120">](https://github.com/federicamaeli.png)|
+|[<img src="https://github.com/irecodes.png" width="120">](https://github.com/irecodes.png)|[<img src="/resources/people/federicaferrari.jpg" width="120">](/resources/people/federicaferrari.jpg)|
 |:---:|:---:|
 | [@irecodes](https://github.com/irecodes) | [@federicamaeli](https://github.com/federicamaeli) |
 
@@ -78,7 +78,7 @@ Wednesday 20th
     
   - what kind of network, data preparation, input, loss functions, evaluation, generate more difficulty in mnist (spatial variation, temporal variation), earlier detection is better score. 
 
-|[<img src="https://github.com/DariaBerretta.png" width="120">](https://github.com/DariaBerretta.png)|[<img src="https://github.com/denyunhero.png" width="120">](https://github.com/denyunhero.png)|
+|[<img src="https://github.com/DariaBerretta.png" width="120">](https://github.com/DariaBerretta.png)|[<img src="/resources/people/xiaojiang.jpg" width="120">](/resources/people/xiaojiang.jpg)|
 |:---:|:---:|
 | **Daria Berretta** | **Xiao Jiang** |
 | [@DariaBerretta](https://github.com/DariaBerretta) | [@denyunhero](https://github.com/denyunhero) |
