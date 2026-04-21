@@ -39,8 +39,7 @@ Tuesday 19th
 
     G. Gallego - Introduction to Perception with Event Cameras
     M. Ikura - Pertubation Tracking: corner, lines, and objects
-    G. Gallego - Contrast maximization and Optical Flow
-    G. Gallego - SLAM with Event Cameras
+    G. Gallego - Contrast maximization, Optical Flow, and SLAM with Event Cameras
 
 |[<img src="/resources/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| [<img src="/resources/people/mikihiroikura.jpg" width="120">](/resources/people/mikihiroikura.jpg)| [<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
 |:---:|:---:|:---:|
@@ -67,10 +66,11 @@ Wednesday 20th
     M. Cannici – Deep learning for low-power efficient motion estimation, navigation, neural radiance fields reconstruction under fast motion
     M. Iacono – Architectures and training SNNs for vision (CNN, RNN, LSTM, surrogate-gradient, bptt, eligibility traces, eProp, etc.)
     
-| | | |
+
+|[<img src="https://github.com/gaurvigoyal.png" width="120">](https://github.com/gaurvigoyal.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)| [<img src="https://github.com/marcocannici.png" width="120">](https://github.com/marcocannici.png) |
 |:---:|:---:|:---:|
 | **Gaurvi Goyal** | **Massimiliano Iacono** | **Marco Cannici** |
-| [@]() | [@]() | [@]() |
+| [@gaurvigoyal](https://github.com/gaurvigoyal) |  [@iaxama](https://github.com/iaxama) | [@marcocannici](https://github.com/marcocannici) |
 
 14:00 – 18:00 Assignments :
   - CNN (MNIST?) input representation , loss function + evaluation [checkpoint fixed, train more]
@@ -107,6 +107,7 @@ Thursday 21st
 
 |[<img src="https://github.com/msbouanane.png" width="120">](https://github.com/msbouanane.png)|[<img src="https://github.com/mbarborinii.png" width="120">](https://github.com/mbarborinii.png)|
 |:---:|:---:|
+| **Mohamed Bouanane** | **Miriam Barborini** |
 | [@msbouanane](https://github.com/msbouanane) | [@mbarborinii](https://github.com/mbarborinii) |
 
 21:30 – 22:30 Keynote, K. Eng
@@ -126,8 +127,8 @@ Friday 22nd
 | [@](https://github.com/) | [@](https://github.com/) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
-  - ?
-  - ?
+  - Low latency coding
+  - Closed-loop visual servoing
     
 |[<img src="https://github.com/MatteoCappe.png" width="120">](https://github.com/MatteoCappe.png)|[<img src="https://github.com/BernardMaacaron.png" width="120">](https://github.com/BernardMaacaron.png)|
 |:---:|:---:|
