@@ -31,6 +31,8 @@ Parking spaces are available at the hotel for an additional fee. To reserve a pa
 
 From **Genova Piazza Principe** station, you can take a regional train to **Arenzano**.
 
+[Trenitalia](https://www.trenitalia.com/it.html)
+
 From Arenzano train station, the hotel is approximately a **20-minute walk** away.
 
 ---
