@@ -101,9 +101,7 @@ Thursday 21st
 | [@]() | [@GiuliaDAngelo](https://github.com/GiuliaDAngelo) | [@ChiaraBartolozzi](https://github.com/ChiaraBartolozzi) | [@MinaKh](https://github.com/MinaKh) |
 
 14:00 – 18:00 Assignments :
-  - SNN coding a LIF neuron for processing + network connections (2 hrs)
-  - SNN Attention model that fits on the SPECK (2 hrs)
-  - SPECK demo
+  - SPECK workshop
 
 |[<img src="https://github.com/msbouanane.png" width="120">](https://github.com/msbouanane.png)|[<img src="https://github.com/mbarborinii.png" width="120">](https://github.com/mbarborinii.png)|
 |:---:|:---:|
@@ -127,7 +125,7 @@ Friday 22nd
 | [@jconradt](https://github.com/jconradt) | [@](https://github.com/) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
-  - Low latency coding
+  - Low latency 
   - Closed-loop visual servoing
     
 |[<img src="https://github.com/MatteoCappe.png" width="120">](https://github.com/MatteoCappe.png)|[<img src="https://github.com/BernardMaacaron.png" width="120">](https://github.com/BernardMaacaron.png)|
