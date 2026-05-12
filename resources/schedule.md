@@ -9,6 +9,13 @@ Sunday 17th
 
 18:00 – 20:00 Welcome Apero - Ice breaker game
 
+Participants can already check in at the hotel on Sunday afternoon (check-in hours on [Hotel Punta San Martino](https://www.hotelpsm.it/it/Home?gad_source=1&gad_campaignid=639967613&gbraid=0AAAAADQ7BZaYALUCCeMHYqw-eJbNq0PmO&gclid=EAIaIQobChMIx5qvrvazlAMVjpSDBx0Luh6fEAAYASAAEgIwH_D_BwE)).
+
+Members of the organisation staff will be available at the venue to help participants if needed.
+
+All participants are warmly invited to join the welcome aperitivo, where they will be welcomed by the organisers and have the opportunity to meet the other attendees through an ice-breaker activity.
+
+
 Monday 18th
 --
 9:00 - 10:00 1 min presentation pitch
