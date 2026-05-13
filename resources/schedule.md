@@ -19,6 +19,7 @@ All participants are warmly invited to join the welcome aperitivo, where they wi
 Monday 18th
 --
 9:00 - 10:00 1 min presentation pitch
+
 10:00 – 13:00 Lectures on fundamentals of Event-Driven Vision
 
     T. Delbruck – History and basics of event-cameras, limitations, noise, models
