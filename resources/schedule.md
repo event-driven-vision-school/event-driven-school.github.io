@@ -104,8 +104,9 @@ Thursday 21st
 
     C. Bartolozzi – Embodied vision and tactile sensing
     E. Chicca - Insects inspired navigation with neuromorphic hardware
+    M. Khoei - Getting Started with SNN training on "SPECK"
     G. D’Angelo - Models of attentions and motion perception
-    M. Khoei - SynSense Tutorial on "SPECK"
+    
 
 | [<img src="/resources/people/elisabettachicca.jpg" width="120">](/resources/people/elisabettachicca.jpg) | [<img src="/resources/people/giuliadangelo.png" width="120">](/resources/people/giuliadangelo.png) | [<img src="/resources/people/chiarabartolozzi.jpg" width="120">](/resources/people/chiarabartolozzi.jpg) | [<img src="/resources/people/minakhoei.jpg" width="120">](/resources/people/minakhoei.jpg) |
 |:---:|:---:|:---:|:---:|
