@@ -5,8 +5,7 @@ Here you can find links to all the important information you will need at the ev
   - [Official Website](https://edpr.iit.it/events/2026-evs)
   - [Schedule, Teachers and TAs](resources/schedule.md)
   - [Hotel and Food info](resources/Hotel_and_food_info.md)
-  - Assignment instructions
-  - Assignments 
+  - [Assignment instructions](resources/assignment_instructions.md)
   - Gradebook 
 
 **Organiser Contact**:
