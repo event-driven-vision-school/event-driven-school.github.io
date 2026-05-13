@@ -13,8 +13,6 @@ Before starting the assignments, make sure the following software is installed o
 
 All Docker images for the assignments are available on the [Event-Driven Vision School GitHub Container Registry](https://github.com/orgs/event-driven-vision-school/packages)
 
----
-
 ### 1. Create a GitHub Personal Access Token
 
 To access the container registry, you need to create a **classic Personal Access Token (PAT)** on GitHub.
@@ -37,8 +35,6 @@ read:packages
 
 After generating the token, copy and save it securely. You will use it as the password when logging into the registry.
 
----
-
 ### 2. Log in to GitHub Container Registry
 
 Open a terminal and run:
@@ -58,8 +54,6 @@ If the login is successful, you should see:
 Login Succeeded
 ```
 
----
-
 ### 3. Pull the Required Docker Image
 
 Each assignment package page contains the corresponding `docker pull` command.
@@ -71,8 +65,6 @@ docker pull ghcr.io/event-driven-vision-school/<image-name>
 ```
 
 Replace `<image-name>` with the specific image required for your assignment.
-
----
 
 ## Example
 
