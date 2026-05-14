@@ -55,8 +55,8 @@ Tuesday 19th
 | [@guillermogb](https://github.com/guillermogb) | [@mikihiroikura](https://github.com/mikihiroikura) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
-  - Perturbation Tracking (Ikura)
-  - Contrast Maximisation (Gallego)
+  - Perturbation Tracking
+  - Contrast Maximisation
     
 |[<img src="https://github.com/LZC-68.png" width="120">](https://github.com/LZC-68.png)|[<img src="/resources/people/jiahangwu.jpg" width="120">](/resources/people/jiahangwu.jpg)|
 |:---:|:---:|
@@ -127,7 +127,7 @@ Thursday 21st
 
 18:00 - 19:30 Sport activities. Bring your swimsuit and games.
 
-21:30 – 22:30 Keynote, K. Eng
+21:30 – 22:30 Keynote, K. Eng  & E.Ryu
 |[<img src="/resources/people/KynanEng.png" width="120"]()|[<img src="/resources/people/EricRyu.png" width="120">]()|
 |:---:|:---:|
 | **Kynan Eng** | **EricRyu** |
