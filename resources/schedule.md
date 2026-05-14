@@ -38,7 +38,7 @@ Monday 18th
 |:---:|:---:|
 | [@irecodes](https://github.com/irecodes) | [@federicamaeli](https://github.com/federicamaeli) |
 
-18:00 - 19:30 Sport activities. Bring your swimsuit and sea tools.
+18:00 - 19:30 Sport activities. Bring your swimsuit and games.
     
 Tuesday 19th
 --
@@ -63,7 +63,7 @@ Tuesday 19th
 | **Zhichao Li** | **Jiahang Wu** |
 | [@LZC-68](https://github.com/LZC-68) | [@JiahangWu](https://github.com/JiahangWu) |
 
-18:00 - 19:30 Sport activities. Bring your swimsuit and sea tools.
+18:00 - 19:30 Sport activities. Bring your swimsuit and games.
 
 21:30 – 22:30 Keynote, D. Scaramuzza
 
@@ -92,7 +92,7 @@ Wednesday 20th
 | **Daria Berretta** | **Xiao Jiang** |
 | [@DariaBerretta](https://github.com/DariaBerretta) | [@denyunhero](https://github.com/denyunhero) |
 
-18:00 - 19:30 Sport activities. Bring your swimsuit and sea tools.
+18:00 - 19:30 Sport activities. Bring your swimsuit and games.
 
 19:30 – 22:30 Social Dinner
 
@@ -120,7 +120,7 @@ Thursday 21st
 | **Mohamed Bouanane** | **Miriam Barborini** |
 | [@msbouanane](https://github.com/msbouanane) | [@mbarborinii](https://github.com/mbarborinii) |
 
-18:00 - 19:30 Sport activities. Bring your swimsuit and sea tools.
+18:00 - 19:30 Sport activities. Bring your swimsuit and games.
 
 21:30 – 22:30 Keynote, K. Eng
 
@@ -147,7 +147,7 @@ Friday 22nd
 | **Matteo Cappellini** | **Bernard Maacaron** |
 | [@MatteoCappe](https://github.com/MatteoCappe) | [@BernardMaacaron](https://github.com/BernardMaacaron) |
 
-18:00 - 19:30 Sport activities. Bring your swimsuit and sea tools.
+18:00 - 19:30 Sport activities. Bring your swimsuit and games.
 
 Saturday 23rd
 --
