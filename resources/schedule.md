@@ -46,7 +46,7 @@ Tuesday 19th
 9:00 – 13:00 Lectures on algorithmic approaches in Event-Driven Vision
 
     G. Gallego - Introduction to Perception with Event Cameras
-    M. Ikura - Pertubation Tracking: corner, lines, and objects
+    M. Ikura & A. Glover - Pertubation Tracking: corner, lines, and objects
     G. Gallego - Contrast maximization, Optical Flow, and SLAM with Event Cameras
 
 |[<img src="/resources/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| [<img src="/resources/people/mikihiroikura.jpg" width="120">](/resources/people/mikihiroikura.jpg)| [<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
