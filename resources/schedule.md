@@ -128,6 +128,10 @@ Thursday 21st
 18:00 - 19:30 Sport activities. Bring your swimsuit and games.
 
 21:30 – 22:30 Keynote, K. Eng
+|[<img src="/resources/people/KynanEng.png" width="120"]()|[<img src="/resources/people/EricRyu.png" width="120">]()|
+|:---:|:---:|
+| **Kynan Eng** | **EricRyu** |
+| [@KynanEng]() | [@EricRyu]() |
 
 Friday 22nd
 --
