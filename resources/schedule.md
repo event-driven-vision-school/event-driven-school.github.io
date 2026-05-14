@@ -67,6 +67,11 @@ Tuesday 19th
 
 21:30 – 22:30 Keynote, D. Scaramuzza
 
+|[<img src="/resources/people/DavideScaramuzza.png" width="120">]()|
+|:---:|
+| **Davide Scaramuzza** |
+| [@DavideScaramuzza]() |
+
 Wednesday 20th
 --
 
