@@ -83,10 +83,9 @@ Wednesday 20th
 | [@gaurvigoyal](https://github.com/gaurvigoyal) |  [@iaxama](https://github.com/iaxama) | [@marcocannici](https://github.com/marcocannici) |
 
 14:00 – 18:00 Assignments :
-  - CNN (MNIST?) input representation , loss function + evaluation [checkpoint fixed, train more]
-  - SNN - how to design the surragate gradient [checkpoint given, train more]
-    
-  - what kind of network, data preparation, input, loss functions, evaluation, generate more difficulty in mnist (spatial variation, temporal variation), earlier detection is better score. 
+  - Convolutional NN for event-driven recognition
+  - Recursive NN for temporal integration during recognition
+  - Spiking NN - how to design the surragate gradient
 
 |[<img src="https://github.com/DariaBerretta.png" width="120">](https://github.com/DariaBerretta.png)|[<img src="/resources/people/xiaojiang.jpg" width="120">](/resources/people/xiaojiang.jpg)|
 |:---:|:---:|
