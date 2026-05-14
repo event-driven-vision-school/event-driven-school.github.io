@@ -18,13 +18,13 @@ All participants are warmly invited to join the welcome aperitivo, where they wi
 
 Monday 18th
 --
-9:00 - 10:00 1 min presentation pitch
+9:00 - 10:00 School introduction and student 1 min presentation pitch
 
 10:00 – 13:00 Lectures on fundamentals of Event-Driven Vision
 
     T. Delbruck – History and basics of event-cameras, limitations, noise, models
     M. Iacono - How to read events, avilable tools, visualisation, simlulators, and basics for the EVS
-    A. Glover - Methods for Processing
+    A. Glover - Event Processing and Representation​
     
 |[<img src="https://github.com/tobidelbruck.png" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)|[<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
 |:---:|:---:|:---:|
@@ -32,8 +32,7 @@ Monday 18th
 | [@tobidelbruck](https://github.com/tobidelbruck) | [@iaxama](https://github.com/iaxama) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
-  - git, python, c++, jupyter, 
-  - event-by-event processing v.s. batch processing v.s. representation processing in Event-Driven Vision
+  -  Event-Driven Vision processing basics
 
 |[<img src="https://github.com/irecodes.png" width="120">](https://github.com/irecodes.png)|[<img src="/resources/people/federicaferrari.jpg" width="120">](/resources/people/federicaferrari.jpg)|
 |:---:|:---:|
