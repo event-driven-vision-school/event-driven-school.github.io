@@ -7,7 +7,8 @@ Here you can find links to all the important information you will need at the ev
   - [Hotel and Food info](resources/Hotel_and_food_info.md)
   - [Communications channel](resources/Communications_channel.md)
   - [Assignment instructions](resources/assignment_instructions.md)
-  - Gradebook 
+  - [Morning Lecture Slides](https://github.com/event-driven-vision-school/slides-and-materials)
+  - [Gradebook](https://github.com/event-driven-vision-school/gradebook) 
 
 **Organiser Contact**:
 |[<img src="/resources/people/chiarabartolozzi.jpg" width="120">](/resources/people/chiarabartolozzi.jpg) |[<img src="https://github.com/tobidelbruck.png" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)|[<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
