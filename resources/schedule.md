@@ -6,7 +6,7 @@
 
  Coffee Break Everyday:
  
- 10:30 & 16:00
+ 11:0-0 & 16:00
 
  Espresso at the terrace bar!
 
