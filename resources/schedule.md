@@ -4,6 +4,12 @@
 | [Day 1](#monday-18th) | [Day 2](#tuesday-19th) | [Day 3](#wednesday-20th) | [Day 4](#thursday-21st) | [Day 5](#friday-22nd) |
 |:---:|:---:|:---:|:---:|:---:|
 
+ Coffee Break Everyday:
+ 
+ 10:30 & 16:00
+
+ Espresso at the terrace bar!
+
 Sunday 17th
 --
 
