@@ -103,9 +103,9 @@ Wednesday 20th
 | **Daria Berretta** | **Xiao Jiang** |
 | [@DariaBerretta](https://github.com/DariaBerretta) | [@denyunhero](https://github.com/denyunhero) |
 
-18:00 - 19:30 Sport activities. Bring your swimsuit and games.
+18:00 - 19:00 Sport activities. Bring your swimsuit and games.
 
-19:30 – 22:30 Social Dinner
+19:00 – 22:30 Social Dinner
 
 Thursday 21st
 --
