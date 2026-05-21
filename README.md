@@ -8,6 +8,7 @@ Here you can find links to all the important information you will need at the ev
   - [Communications channel](resources/Communications_channel.md)
   - [Assignment instructions](resources/assignment_instructions.md)
   - [Morning Lecture Slides](https://github.com/event-driven-vision-school/slides-and-materials)
+  - [Stay in Contact!](https://github.com/event-driven-vision-school/slides-and-materials/blob/main/Participants.md)
   - [Gradebook](https://github.com/event-driven-vision-school/gradebook) 
 
 **Organiser Contact**:
