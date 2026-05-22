@@ -15,7 +15,7 @@ Here you can find links to all the important information you will need at the ev
 **Organisers Contact**:
 |[<img src="/resources/people/chiarabartolozzi.jpg" width="120">](/resources/people/chiarabartolozzi.jpg) |[<img src="https://github.com/tobidelbruck.png" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)|[<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
 |:---:|:---:|:---:|:---:|
-| **ChiaraBartolozzi** | **Tobi Delbruck** | **Massimiliano Iacono** | **Arren Glover** | 
+| **Chiara Bartolozzi** | **Tobi Delbruck** | **Massimiliano Iacono** | **Arren Glover** | 
 | chiara.bartolozzi@iit.it | tobi@ini.uzh.ch | massimiliano.iacono@iit.it | arren.glover@iit.it |
 
 
