@@ -154,7 +154,7 @@ Friday 22nd
 | [@jconradt](https://github.com/jconradt) | [@](https://github.com/) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
-  - Hands On with the genX320!
+  - [Hands On with the genX320!](https://github.com/event-driven-vision-school/genx320-handson/pkgs/container/genx320-handson)
     
 |[<img src="https://github.com/MatteoCappe.png" width="120">](https://github.com/MatteoCappe.png)|[<img src="https://github.com/BernardMaacaron.png" width="120">](https://github.com/BernardMaacaron.png)|
 |:---:|:---:|
