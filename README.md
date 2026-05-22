@@ -9,7 +9,8 @@ Here you can find links to all the important information you will need at the ev
   - [Assignment instructions](resources/assignment_instructions.md)
   - [Morning Lecture Slides](https://github.com/event-driven-vision-school/slides-and-materials)
   - [Stay in Contact!](https://github.com/event-driven-vision-school/slides-and-materials/blob/main/Participants.md)
-  - [Gradebook](https://github.com/event-driven-vision-school/gradebook) 
+  - [Gradebook](https://github.com/event-driven-vision-school/gradebook)
+  - Feedback Form
 
 **Organiser Contact**:
 |[<img src="/resources/people/chiarabartolozzi.jpg" width="120">](/resources/people/chiarabartolozzi.jpg) |[<img src="https://github.com/tobidelbruck.png" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)|[<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
