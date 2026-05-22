@@ -12,11 +12,11 @@ Here you can find links to all the important information you will need at the ev
   - [Gradebook](https://github.com/event-driven-vision-school/gradebook)
   - [Feedback Form](https://forms.gle/84QKD66E3tEz6A329)
 
-**Organiser Contact**:
+**Organisers Contact**:
 |[<img src="/resources/people/chiarabartolozzi.jpg" width="120">](/resources/people/chiarabartolozzi.jpg) |[<img src="https://github.com/tobidelbruck.png" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)|[<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
 |:---:|:---:|:---:|:---:|
 | **ChiaraBartolozzi** | **Tobi Delbruck** | **Massimiliano Iacono** | **Arren Glover** | 
-| chiara.bartilozzi@iit.it | tobi@ini.uzh.ch | massimiliano.iacono@iit.it | arren.glover@iit.it |
+| chiara.bartolozzi@iit.it | tobi@ini.uzh.ch | massimiliano.iacono@iit.it | arren.glover@iit.it |
 
 
 |[<img src="/resources/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| [<img src="/resources/people/mikihiroikura.jpg" width="120">](/resources/people/mikihiroikura.jpg) |[<img src="https://github.com/gaurvigoyal.png" width="120">](https://github.com/gaurvigoyal.png)|
