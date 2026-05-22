@@ -154,8 +154,7 @@ Friday 22nd
 | [@jconradt](https://github.com/jconradt) | [@](https://github.com/) | [@arrenglover](https://github.com/arrenglover) |
 
 14:00 – 18:00 Assignments :
-  - Low latency 
-  - Closed-loop visual servoing
+  - Hands On with the genX320!
     
 |[<img src="https://github.com/MatteoCappe.png" width="120">](https://github.com/MatteoCappe.png)|[<img src="https://github.com/BernardMaacaron.png" width="120">](https://github.com/BernardMaacaron.png)|
 |:---:|:---:|
