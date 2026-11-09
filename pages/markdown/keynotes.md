@@ -17,7 +17,7 @@ Fermüller’s research is in the areas of computer vision and human vision, and
 <a href="{{ '/schedule/' | relative_url }}"><span>02</span>
 <h3>Keynote #2</h3> 
 
-Bio
+TBD!
 <b>See More →</b>
 </a>
 
