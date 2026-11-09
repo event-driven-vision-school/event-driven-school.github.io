@@ -1,26 +1,30 @@
 # Schedule: Event Vision School 2026
 
+<table class="day-links">
+  <thead>
+    <tr>
+      <th><a href="#monday-18th">Day 1</a></th>
+      <th><a href="#tuesday-19th">Day 2</a></th>
+      <th><a href="#wednesday-20th">Day 3</a></th>
+      <th><a href="#thursday-21st">Day 4</a></th>
+      <th><a href="#friday-22nd">Day 5</a></th>
+    </tr>
+  </thead>
+</table>
 
-| [Day 1](#monday-18th) | [Day 2](#tuesday-19th) | [Day 3](#wednesday-20th) | [Day 4](#thursday-21st) | [Day 5](#friday-22nd) |
-|:---:|:---:|:---:|:---:|:---:|
-
- Coffee Break Everyday:
- 
- 11:0-0 & 16:00
-
- Espresso at the terrace bar!
+## Typical day
+Lecture → Coffee → Guest Lecture → Lunch → Assignments → Coffee → Assignments → Sport → Dinner → Projects/Free Time
 
 Sunday 17th
 --
 
+15:00 - Check-in Open
+
+> TODO: add check in instructions for hotel
+
 18:00 – 20:00 Welcome Apero - Ice breaker game
 
-Participants can already check in at the hotel on Sunday afternoon (check-in hours on [Hotel Punta San Martino](https://www.hotelpsm.it/it/Home?gad_source=1&gad_campaignid=639967613&gbraid=0AAAAADQ7BZaYALUCCeMHYqw-eJbNq0PmO&gclid=EAIaIQobChMIx5qvrvazlAMVjpSDBx0Luh6fEAAYASAAEgIwH_D_BwE)).
-
-Members of the organisation staff will be available at the venue to help participants if needed.
-
 All participants are warmly invited to join the welcome aperitivo, where they will be welcomed by the organisers and have the opportunity to meet the other attendees through an ice-breaker activity.
-
 
 Monday 18th
 --

@@ -1,5 +1,7 @@
 # Assignment instructions
 
+> TODO: review and update the strategy for assignments. Offline docker images may be a better solution for all assignments so we can use them with real x320 cameras
+
 ## Prerequisites
 Before starting the assignments, make sure the following software is installed on your system:
 

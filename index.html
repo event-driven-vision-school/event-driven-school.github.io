@@ -1,0 +1,61 @@
+---
+layout: default
+title: Home
+---
+
+<img class="evs-banner"
+     src="{{ '/assets/images/EVS-banner.png' | relative_url }}"
+     alt="Event Vision School banner">
+
+<section class="hero">
+  <div class="container hero-grid">
+    <div>
+      <p class="eyebrow">Event Vision School · {{ site.event.year }}</p>
+      <p>EVS is an intensive, practical school for Master’s students, PhD candidates and early-career researchers. We combine lectures from leading researchers with extensive hands-on sessions using modern event-camera tools and data.</p>
+      <p>Participants gain the concepts and practical confidence to develop their own event-driven vision applications.</p>
+    </div>
+    <aside class="event-card" aria-label="Event details">
+      <span class="card-label">EVS {{ site.event.year }}</span>
+      <p class="event-date">{{ site.event.dates }}</p>
+      <p>{{ site.event.venue }}<br>{{ site.event.location }}</p>
+      <a class="button button-light" href="{{ site.event.registration_url }}">{{ site.event.registration_label }}</a>
+    </aside>
+  </div>
+</section>
+
+<section class="information section">
+  <div class="container">
+    {% capture source %}{% include_relative pages/markdown/about.md %}{% endcapture %}
+    {{ source | markdownify }}
+  </div>
+</section>
+
+<section class="programme section">
+  <div class="container">
+    {% capture source %}{% include_relative pages/markdown/keynotes.md %}{% endcapture %}
+    {{ source | markdownify }}
+  </div>
+</section>
+
+<section class="information section">
+  <div class="container">
+    {% capture source %}{% include_relative pages/markdown/guests.md %}{% endcapture %}
+    {{ source | markdownify }}
+  </div>
+</section>
+
+<section class="programme section">
+  <div class="container">
+    {% capture source %}{% include_relative pages/markdown/contact.md %}{% endcapture %}
+    {{ source | markdownify }}
+  </div>
+</section>
+
+
+
+<section class="callout section" id="registration">
+  <div class="container callout-wrap">
+    <div><p class="eyebrow">Join us</p><h2>Be a part of EVS {{ site.event.year }}.</h2></div>
+    <a class="button button-light" href="{{ site.event.registration_url }}">{{ site.event.registration_label }}</a>
+  </div>
+</section>

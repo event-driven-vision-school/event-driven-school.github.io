@@ -1,0 +1,34 @@
+title: Event Vision School
+short_title: EVS
+description: Event Vision School — a hands-on school on event-based vision.
+url: "https://event-driven-vision-school.github.io"
+baseurl: ""
+
+# Change these values for each edition.
+event:
+  year: 2027
+  dates: "16-22th May"
+  location: "Italy"
+  venue: "Venue: Stay Tuned!"
+  registration_url: "/registration/"
+  registration_label: "Register Now!"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
