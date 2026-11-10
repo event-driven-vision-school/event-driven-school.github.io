@@ -58,4 +58,4 @@ University of Zurich
 
 > <img src="../../assets/images/linkedin-brands-solid-full.svg" alt="https://edpr.iit.it/" style="height: 20px"> [https://www.linkedin.com/company/event-vision-school/](https://www.linkedin.com/company/event-vision-school/)  
 
-> <img src="../../assets/images/envelope-solid-full.svg" alt="https://edpr.iit.it/" style="height: 20px"> [edpriit@gmail.com](mailto:edpriit@gmail.com)
+> <img src="../../assets/images/envelope-solid-full.svg" alt="https://edpr.iit.it/" style="height: 20px"> [eventvisionschool2026@gmail.com](mailto:eventvisionschool2026@gmail.com)
