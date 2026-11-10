@@ -7,9 +7,7 @@
 <h3>Cornelia Fermüller</h3>
 <img class="speaker-photo" src="../../assets/images/people/Fermuller.jpg" alt="Cornelia Fermüller" style="width: 160px">
 
-Cornelia Fermüller is a research scientist in the <strong>UMIACS Computer Vision Laboratory.</strong>
-
-Fermüller’s research is in the areas of computer vision and human vision, and she has written more than 35 articles in journals and 100 publications in refereed conferences and books. In her computer vision work, she has developed many computational models and implemented software solutions for applications in visual navigation and image processing. Fermüller's work on biological vision involves examining the computational constraints, building simulation models, and performing psychophysical experiments to understand the possible computational mechanisms explaining human motion and low-level signal perception.
+Cornelia Fermüller is Research Scientist at the Institute for Advanced Computer Studies at University of Maryland. Her research is devoted to the understanding of visual perception, and to do so she studies Computer Vision as well as biological vision. She has developed computational models and software solutions to problems of visual motion analysis, multiple viewing geometry, shape recovery and texture analysis, and she has studied visual motion and low level processes in human vision. Her current research focuses on two  themes:  1) Developing cognitive systems that understand and can learn human actions, through the integration of language and reasoning with perception and action 2.) Motion tasks in extreme conditions. The goal  is to study and develop algorithms that integrate motion perception with control.
 <b>See More →</b>
 </a>
 
