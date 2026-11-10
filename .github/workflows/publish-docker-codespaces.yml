@@ -1,51 +1,59 @@
-name: Deploy Jekyll site to Pages
+name: Publish Docker Image for GitHub Codespaces
 
 on:
-  push:
-    branches: ["main"]
   workflow_dispatch:
+    inputs:
+      superbuild_release:
+        description: 'Robotology Superbuild Release'
+        required: true
+        default: 'master'
+      build_type:
+        type: choice
+        description: 'Build Type'
+        options:
+        - 'Release'
+        - 'Debug'
+        required: true
+        default: 'Release'
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+        
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+    - name: Checkout repository 
+      uses: actions/checkout@main
 
-      - name: Configure Pages
-        id: pages
-        uses: actions/configure-pages@v5
+    - name: Log in to the Container registry
+      uses: docker/login-action@v2.0.0
+      with:
+        registry: ${{ env.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-          future: true
+    - name: Extract metadata for Docker
+      id: meta
+      uses: docker/metadata-action@v4.0.1
+      with:
+        images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+        flavor: |
+          latest=true
+          prefix=
+          suffix=
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: ./_site
-
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+    - name: Build and push Docker image
+      uses: docker/build-push-action@v3.1.1
+      with:
+        context: dockerfiles
+        push: true
+        tags: |
+          ${{ steps.meta.outputs.tags }}
+          ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ inputs.superbuild_release }}
+          ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:codespaces
+        labels: ${{ steps.meta.outputs.labels }}
+        build-args: |
+          ROBOTOLOGY_SUPERBUILD_RELEASE=${{ inputs.superbuild_release }}
+          BUILD_TYPE=${{ inputs.build_type }}
