@@ -2,7 +2,7 @@ title: Event Vision School
 short_title: EVS
 description: Event Vision School — a hands-on school on event-based vision.
 url: "https://event-driven-vision-school.github.io"
-baseurl: "/event-driven-school.github.io"
+baseurl: ""
 
 # Change these values for each edition.
 event:
