@@ -51,7 +51,7 @@ Monday 17th
   -  Representing and visualising events
   -  Connecting the live camera
 
-|[<img src="../../assets/images/people/tobiasdelbruck.jpg" width="120">](https://github.com/tobidelbruck.png)|[<img src="../../assets/images/people/massimilianoiacono.jpg" width="120">](https://github.com/iaxama.png)|[<img src="../../assets/images/people/arrenglover.jpg" width="120">](https://github.com/arrenglover.png)|
+|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/tobiasdelbruck.jpg" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg" width="120">](https://github.com/iaxama.png)|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">](https://github.com/arrenglover.png)|
 |:---:|:---:|:---:|
 | **Tobi Delbruck** | **Massimiliano Iacono** | **Arren Glover** |
 | [@tobidelbruck](https://github.com/tobidelbruck) | [@iaxama](https://github.com/iaxama) | [@arrenglover](https://github.com/arrenglover) |
@@ -74,14 +74,14 @@ Tuesday 18th
   - Perturbation Tracking
   - Contrast Maximisation
 
-|[<img src="../../assets/images/people/guillermogallego.jpg" width="120">](/resources/people/guillermogallego.jpg)| [<img src="https://github.com/arrenglover.png" width="120">](https://github.com/arrenglover.png)|
+|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/guillermogallego.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/guillermogallego.jpg)| [<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">](https://github.com/arrenglover.png)|
 |:---:|:---:|
 | **Guillermo Gallego** | **Arren Glover** |
 | [@guillermogb](https://github.com/guillermogb) | [@arrenglover](https://github.com/arrenglover) |
 
 21:30 – 22:30 Keynote, Cornelia Fermüller
 
-|[<img src="../../assets/images/people/Fermuller.jpg" width="120">]()|
+|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/Fermuller.jpg" width="120">]()|
 |:---:|
 | **Cornelia Fermüller** |
 | [@fermuller](https://github.com/fermuller) |
@@ -103,7 +103,7 @@ Wednesday 19th
   - Recursive NN for temporal integration during recognition
   - Spiking NN - how to design the surragate gradient
 
-|[<img src="https://github.com/gaurvigoyal.png" width="120">](https://github.com/gaurvigoyal.png)|[<img src="https://github.com/iaxama.png" width="120">](https://github.com/iaxama.png)|
+|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/gaurvigoyal.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/gaurvigoyal.jpg)|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg)|
 |:---:|:---:|
 | **Gaurvi Goyal** | **Massimiliano Iacono** |
 | [@gaurvigoyal](https://github.com/gaurvigoyal) |  [@iaxama](https://github.com/iaxama) |
@@ -124,7 +124,7 @@ Thursday 20nd
 14:00 – 18:00 Assignments :
   - [Visual Servoing](https://github.com/event-driven-vision-school/genx320-handson/pkgs/container/genx320-handson)
 
-|[<img src="../../assets/images/people/jorgconradt.jpg" width="120">](/resources/people/jorgconradt.jpg)|  [<img src="../../assets/images/people/arrenglover.jpg" width="120">](/resources/people/arrenglover.jpg)|  
+|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg)|  [<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg)|
 |:---:|:---:|
 | **Jorg Conradt** | **Arren Glover** |
 | [@jconradt](https://github.com/jconradt) | [@arrenglover](https://github.com/arrenglover) |
@@ -138,7 +138,7 @@ Friday 21st
 
     C. Bartolozzi – Beyond Vision with Events
     
-| [<img src="../../assets/images/people/chiarabartolozzi.jpg" width="120">]() |
+| [<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/chiarabartolozzi.jpg" width="120">]() |
 |:---:|
 | **Chiara Bartolozzi** | 
 | [@ChiaraBartolozzi](https://github.com/ChiaraBartolozzi) |
