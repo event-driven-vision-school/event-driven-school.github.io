@@ -1,5 +1,7 @@
 # Communications Channel
 
+> TODO: during the 2026 school students ended up using what'sapp more than matermost. Let's check out what'sapp privacy in groups (there were some updates) and see if it can be a better official solution
+
 During the school, all communications will take place through the **Mattermost** "slack-like" platform provided by the `neuromorphs.net` domain.
 
 ## 1. Create Your Neuromorphs Account
