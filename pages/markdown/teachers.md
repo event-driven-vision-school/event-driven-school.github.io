@@ -55,7 +55,7 @@ University of Zurich
 <div class="info-grid">
 
 <a href="https://iit.it/people/daria-berretta" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/dariaberretta.jpg" alt="Daria Berretta" style="width: 160px">
+<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/dariaberretta.jpeg" alt="Daria Berretta" style="width: 160px">
 <h3>Daria Berretta</h3> 
 Italian Institute of Technology
 </a>

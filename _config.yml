@@ -10,7 +10,7 @@ event:
   dates: "16-22th May"
   location: "Italy"
   venue: "Venue: Stay Tuned!"
-  registration_url: "/registration/"
+  registration_url: "https://forms.iit.it/view.php?id=829205"
   registration_label: "Register Now!"
 
 markdown: kramdown
