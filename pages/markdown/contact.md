@@ -1,61 +1,8 @@
-# Organisers and Teachers
-
-<div class="info-grid">
-
-<a href="https://iit.it/people/chiara-bartolozzi" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/chiarabartolozzi.jpg" alt="Chiara Bartolozzi" style="width: 160px">
-<h3>Chiara Bartolozzi</h3> 
-Italian Institute of Technology
-</a>
-
-<a href="https://www.ini.uzh.ch/en/institute/people?uname=tobi" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/tobiasdelbruck.jpg" alt="Tobi Delbruck" style="width: 160px">
-<h3>Tobi Delbruck</h3> 
-University of Zurich
-</a>
-
-<a href="https://sites.google.com/view/guillermogallego" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/guillermogallego.jpg" alt="Guillermo Gallego" style="width: 160px">
-<h3>Guillermo Gallego</h3> 
-Technical University Berlin
-</a>
-
-<a href="https://arrenglover.github.io/" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" alt="Arren Glover" style="width: 160px">
-<h3>Arren Glover</h3> 
-Italian Institute of Technology 
-</a>
-
-<a href="https://www.maastrichtuniversity.nl/g-goyal" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/gaurvigoyal.jpg" alt="Gaurvi Goyal" style="width: 160px">
-<h3>Gaurvi Goyal</h3> 
-Maastricht University
-</a>
-
-<a href="https://iit.it/people/massimiliano-iacono" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg" alt="Massimiliano Iacono" style="width: 160px">
-<h3>Massimiliano Iacono</h3> 
-Italian Institute of Technology
-</a>
-
-<a href="https://www.kth.se/profile/conr" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" alt="Jörg Conradt" style="width: 160px">
-<h3>Jörg Conradt</h3> 
-KTH
-</a>
-
-<a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html" target="_blank" rel="noopener noreferrer">
-<img class="speaker-photo" src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/DavideScaramuzza.png" alt="Davide Scaramuzza" style="width: 160px">
-<h3>Davide Scaramuzza</h3> 
-University of Zurich
-</a>
-</div>
-
-### Contact: 
+# Contact: 
 
 > <img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/globe-solid-full.svg" alt="https://edpr.iit.it/" style="height: 20px"> [https://edpr.iit.it/](https://edpr.iit.it/)
 
 
-> <img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/linkedin-brands-solid-full.svg" alt="https://edpr.iit.it/" style="height: 20px"> [https://www.linkedin.com/company/event-vision-school/](https://www.linkedin.com/company/event-vision-school/)
+> <img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/linkedin-brands-solid-full.svg" alt="linked-in" style="height: 20px"> [https://www.linkedin.com/company/event-vision-school/](https://www.linkedin.com/company/event-vision-school/)
 
-> <img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/envelope-solid-full.svg" alt="https://edpr.iit.it/" style="height: 20px"> [eventvisionschool2026@gmail.com](mailto:eventvisionschool2026@gmail.com)
+> <img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/envelope-solid-full.svg" alt="email" style="height: 20px"> [edpriit@gmail.com](mailto:edpriit@gmail.com)

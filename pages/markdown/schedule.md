@@ -1,7 +1,5 @@
 # Schedule: Event Vision School 2026
 
-> TODO: add group project (when announce, how?), add guest lecturers
-
 <table class="day-links">
   <thead>
     <tr>
@@ -30,31 +28,29 @@ Sunday 16th
 
 All participants are warmly invited to join the welcome aperitivo, where they will be welcomed by the organisers and have the opportunity to meet the other attendees through an ice-breaker activity.
 
+> TODO: confirm location - Rooftop
+
 Monday 17th
 --
-9:00 - 10:00 School introduction and student 1 min introduction presentations
+9:00 - 10:00 School and teachers introduction and student 1 min introduction presentations
 
 10:00 – 13:00 Lectures on fundamentals of Event-Driven Vision
 
-    T. Delbruck – History and basics of event-cameras, limitations, noise, models
+    T. Delbruck – The history of event-cameras and their limitations, noise characteristics and noise models
 
-    C. Bartolozzi - Event Cameras, Spikes and Information
-
-    A. Glover - Processing Techniques and Event Representation​s
-    
-
+    A. Glover - Basic processing techniques and event representation​s
 
 14:00 – 18:00 Assignments :
 
-    M. Iacono - How to read events, avilable tools, visualisation, and basics for the EVS
+    M. Iacono - How to read events, avilable tools, visualisation, and fundamentals for the EVS
 
   -  Representing and visualising events
   -  Connecting the live camera
 
-|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/tobiasdelbruck.jpg" width="120">](https://github.com/tobidelbruck.png)|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg" width="120">](https://github.com/iaxama.png)|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">](https://github.com/arrenglover.png)|
+|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/tobiasdelbruck.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg" width="120">|
 |:---:|:---:|:---:|
-| **Tobi Delbruck** | **Massimiliano Iacono** | **Arren Glover** |
-| [@tobidelbruck](https://github.com/tobidelbruck) | [@iaxama](https://github.com/iaxama) | [@arrenglover](https://github.com/arrenglover) |
+| **Tobi Delbruck** | **Arren Glover** | **Massimiliano Iacono** |
+| [@tobidelbruck](https://github.com/tobidelbruck)  | [@arrenglover](https://github.com/arrenglover) | [@iaxama](https://github.com/iaxama) |
 
 
     
@@ -67,17 +63,17 @@ Tuesday 18th
 
     A. Glover - Pertubation Tracking: corners, lines, and objects
 
-    ? - ?
+    A. Marcireau - TBD
     
 
 14:00 – 18:00 Assignments :
   - Perturbation Tracking
   - Contrast Maximisation
 
-|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/guillermogallego.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/guillermogallego.jpg)| [<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">](https://github.com/arrenglover.png)|
-|:---:|:---:|
-| **Guillermo Gallego** | **Arren Glover** |
-| [@guillermogb](https://github.com/guillermogb) | [@arrenglover](https://github.com/arrenglover) |
+|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/guillermogallego.jpg" width="120">|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">]()|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/alexandremarcireau.jpg" width="120">]()|
+|:---:|:---:|:---:|
+| **Guillermo Gallego** | **Arren Glover** |**Alexandre Marcireau** |
+| [@guillermogb](https://github.com/guillermogb) | [@arrenglover](https://github.com/arrenglover) | [@aMarcireau](https://github.com/aMarcireau)
 
 21:30 – 22:30 Keynote, Cornelia Fermüller
 
@@ -95,7 +91,7 @@ Wednesday 19th
 
     M. Iacono – Architectures and training SNNs for vision (CNN, RNN, LSTM, surrogate-gradient, bptt, eligibility traces, eProp, etc.)
 
-    ? - ?
+    C. Z. Wang - TBD
     
 
 14:00 – 18:00 Assignments :
@@ -103,10 +99,10 @@ Wednesday 19th
   - Recursive NN for temporal integration during recognition
   - Spiking NN - how to design the surragate gradient
 
-|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/gaurvigoyal.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/gaurvigoyal.jpg)|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg)|
-|:---:|:---:|
-| **Gaurvi Goyal** | **Massimiliano Iacono** |
-| [@gaurvigoyal](https://github.com/gaurvigoyal) |  [@iaxama](https://github.com/iaxama) |
+|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/gaurvigoyal.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/massimilianoiacono.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/claudewang.jpg" width="120">|
+|:---:|:---:|:---:|
+| **Gaurvi Goyal** | **Massimiliano Iacono** | **Claude Ziyun Wang** |
+| [@gaurvigoyal](https://github.com/gaurvigoyal) |  [@iaxama](https://github.com/iaxama) | [@ZiyunClaudeWang](https://github.com/ZiyunClaudeWang) |
 
 19:00 – 22:30 Social Dinner
 
@@ -119,15 +115,16 @@ Thursday 20nd
 
     A. Glover - low-latency vision and asynchronous reinforcement learning for real-time interaction in high-speed tasks
 
-    Y. Sandamirskaya - ?
+    Y. Sandamirskaya - TBD
 
 14:00 – 18:00 Assignments :
-  - [Visual Servoing](https://github.com/event-driven-vision-school/genx320-handson/pkgs/container/genx320-handson)
+  - Visual Servoing
 
-|[<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg)|  [<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">](https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg)|
-|:---:|:---:|
-| **Jorg Conradt** | **Arren Glover** |
-| [@jconradt](https://github.com/jconradt) | [@arrenglover](https://github.com/arrenglover) |
+|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/sank.jpg" width="120">|
+|:---:|:---:|:---:|
+| **Jorg Conradt** | **Arren Glover** | **Yulia Sandamirskaya** |
+| [@jconradt](https://github.com/jconradt) | [@arrenglover](https://github.com/arrenglover) |  |
+
 
 21:30 – 22:30 Keynote, TBD
 
