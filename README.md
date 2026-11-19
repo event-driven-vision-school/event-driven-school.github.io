@@ -2,7 +2,7 @@
 
 Here you can find links to all the important information you will need at the event vision school! Any further questions? - ask a TA or teacher!
 
-  - [Official Website]()
+  - [Official Website](http://edpr.iit.it/events/2027-evs)
   - [Schedule, Teachers and TAs](pages/markdown/schedule.md)
   - [Hotel and Food info](pages/markdown/venueandtravel.md)
   - [Communications channel](pages/markdown/communication.md)
