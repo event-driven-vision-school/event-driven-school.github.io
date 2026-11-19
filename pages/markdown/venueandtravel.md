@@ -17,25 +17,18 @@
 The school fee includes accommodation and meals at the hotel according to the following schedule:
 
 - **Sunday, May 16th:** dinner is provided while lunch is **not included**.
-- **Monday, May 17th – Friday, August 21nd:** all inclusive breakfast, lunch, and dinner are included.
+- **Monday, May 17th – Friday, August 21nd:** all inclusive (breakfast, lunch, and dinner).
 - **Saturday, May 22rd:** breakfast is included, while lunch is **not included**.
 
 Food allergies and dietary preferences will be handled directly by the hotel. The staff should already have the information provided during registration.
 
 Water will always be available during the event. To help reduce plastic waste, participants are encouraged to bring a reusable water bottle.
 
-### Social Dinner 
-
-The school will include a night out at a restaurant in Loano to relax and celebrate an (almost) complete week of hard work!
-
-> TODO: Add social dinner location
-
 ---
-
 
 ## By Car
 
-> TODO: Add instructions
+A10 highway to Loano.
 
 ---
 ## By Plane
@@ -44,24 +37,12 @@ The nearest airport is **Genova Cristoforo Colombo Airport (GOA)**.
 
 From the airport, you can reach **Genova Sestri Ponente Areoporto** railway station by internal Airport Shuttle.
 
-> TODO: Complete Instructions
-
 For more info on the Airport shuttle, visit [Airport Shuttle](https://www.airport.genova.it/en/transportation-airport-2/)
 
 ---
 
 ## By Train
 
-From **Genova Piazza Principe** station, you can take a regional train to ...
+From **Genova Piazza Principe** or **Genova Sestri Ponente Areoporto** station, you can take a regional train to Loano
 
 [Trenitalia](https://www.trenitalia.com/it.html)
-
-> TODO: Complete Instructions
-
----
-
-## By Bus
-
-> TODO: Complete Instructions
-
-
