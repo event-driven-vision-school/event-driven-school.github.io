@@ -113,17 +113,19 @@ Thursday 20nd
 
     J. Conradt – closed loop robotics with event-driven vision and neuromorphic hardware
 
-    A. Glover - low-latency vision and asynchronous reinforcement learning for real-time interaction in high-speed tasks
+    D. Scaramuzza - TBD
+
+    A. Glover - low-latency visual servoing with event cameras
 
     Y. Sandamirskaya - TBD
 
 14:00 – 18:00 Assignments :
   - Visual Servoing
 
-|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/sank.jpg" width="120">|
-|:---:|:---:|:---:|
-| **Jorg Conradt** | **Arren Glover** | **Yulia Sandamirskaya** |
-| [@jconradt](https://github.com/jconradt) | [@arrenglover](https://github.com/arrenglover) |  |
+|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/DavideScaramuzza.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/sank.jpg" width="120">|
+|:---:|:---:|:---:|:---:|
+| **Jorg Conradt** | **Davide Scaramuzza** | **Arren Glover** | **Yulia Sandamirskaya** |
+| [@jconradt](https://github.com/jconradt) |  | [@arrenglover](https://github.com/arrenglover) |  |
 
 
 21:30 – 22:30 Keynote, TBD
