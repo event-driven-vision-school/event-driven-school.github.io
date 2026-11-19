@@ -122,7 +122,7 @@ Thursday 20nd
 14:00 – 18:00 Assignments :
   - Visual Servoing
 
-|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/DavideScaramuzza.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/sank.jpg" width="120">|
+|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/jorgconradt.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/DavideScaramuzza.png" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/arrenglover.jpg" width="120">|<img src="https://event-driven-vision-school.github.io/event-driven-school.github.io/assets/images/people/sank.jpg" width="120">|
 |:---:|:---:|:---:|:---:|
 | **Jorg Conradt** | **Davide Scaramuzza** | **Arren Glover** | **Yulia Sandamirskaya** |
 | [@jconradt](https://github.com/jconradt) |  | [@arrenglover](https://github.com/arrenglover) |  |
