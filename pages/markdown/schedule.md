@@ -104,7 +104,7 @@ Wednesday 19th
 | **Gaurvi Goyal** | **Massimiliano Iacono** | **Claude Ziyun Wang** |
 | [@gaurvigoyal](https://github.com/gaurvigoyal) |  [@iaxama](https://github.com/iaxama) | [@ZiyunClaudeWang](https://github.com/ZiyunClaudeWang) |
 
-19:00 – 22:30 Social Dinner
+20:00 – 23:30 Hit the town! Loano!
 
 Thursday 20nd
 --
